@@ -116,7 +116,7 @@ Kindly Please join Group
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/jns_bots'),
+        InlineKeyboardButton('Developers', url='https://t.me/DFF_UPDATE'),
         InlineKeyboardButton('Source Code 🧾', url ='https://t.me/https://t.me/githubsoursecode')],                               
      [
         InlineKeyboardButton('Support 🛠', url='https://t.me/jns_fc_bots')
