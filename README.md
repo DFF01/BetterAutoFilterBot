@@ -82,7 +82,7 @@ python3 -m bot
 
 
 <p align="center">
-↪️ # Join TG Group ↩️
+↪️ Ⳗⲟⲓⲛ Ⲧꓖ ꓖⲅⲟⳙⲣ ↩️
 </p>
 
 <p align="center">
