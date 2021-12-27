@@ -103,7 +103,7 @@ Kindly Please join Group
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/jns_bots"
+                                    'Developers', url="https://t.me/DFF_UPDATE"
                                 )
                         ]
                     ]
