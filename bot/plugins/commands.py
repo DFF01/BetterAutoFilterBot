@@ -29,10 +29,9 @@ async def start(bot, update):
 Join on our channel to get movies ✅
 
 
-⚠️താങ്കൾ ഞങ്ങളുടെ ചാനൽ സബ്സ്ക്രൈബ് ചെയ്തിട്ട് ഇല്ല ! ⚠️
+You need to join in my Group to use me
 
-
-ഞങ്ങളുടെ ചാനലിൽ ജോയിൻ ചെയ്യതാൽ താങ്കൾക്ക് movies കിട്ടുന്നത് ആണ് ✅
+Kindly Please join Group
 
 ⬇️Channel link⬇️ </b>""",
                 reply_markup=InlineKeyboardMarkup([
@@ -66,7 +65,7 @@ Join on our channel to get movies ✅
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/JNS_BOTS"
+                                    'Developers', url="https://t.me/DFF_UPDATE"
                                 )
                         ]
                     ]
@@ -85,7 +84,7 @@ Join on our channel to get movies ✅
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/jns_bots"
+                                    'Developers', url="https://t.me/DFF_UPDATE"
                                 )
                         ]
                     ]
