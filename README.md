@@ -82,7 +82,7 @@ python3 -m bot
 
 
 <p align="center">
-↪️ 𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔 ↩️
+↪️ #Join TG Group ↩️
 </p>
 
 <p align="center">
