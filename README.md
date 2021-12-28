@@ -2,7 +2,6 @@
 [![DFF](https://telegra.ph/file/37885c57e33230f9bc2b1.jpg)](https://t.me/DFF_UPDATE)[![DFF](https://telegra.ph/file/c2b6926a7bff833a26d79.jpg)](https://t.me/Hollywood_0980)
 
 # BetterAutoFilterBot
-This Is Just An Simple Advance Auto Filter Bot 
  
 __This Is Just An Simple Advance Auto Filter Bot 
 
