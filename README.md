@@ -61,7 +61,7 @@ You can deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
 
-[![Maxx](https://telegra.ph/file/77819ffdc3697fe1a62f8.jpg)](https://heroku.com/deploy?template=https://github.com/DFF01/BetterAutoFilterBot) 
+[![DFF](https://telegra.ph/file/77819ffdc3697fe1a62f8.jpg)](https://heroku.com/deploy?template=https://github.com/DFF01/BetterAutoFilterBot) 
 
 ----
 
