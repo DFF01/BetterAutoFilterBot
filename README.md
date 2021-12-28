@@ -1,12 +1,9 @@
+[![DFF](https://telegra.ph/file/637194ad818c4c537deca.jpg)](https://t.me/DFF_UPDATE) [![DFF](https://telegra.ph/file/dc0866657bbea55c9add1.jpg)](https://t.me/Hollywood_0980)
+
 # BetterAutoFilterBot
 this is auto filter Bot 
 
 __This Is Just An Simple Advance Auto Filter Bot 
-
-__[Join Telegram Group](https://t.me/Hollywood_0980)..__
-
-__Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
-
 
 ## Usage
 
