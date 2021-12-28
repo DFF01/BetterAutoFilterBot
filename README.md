@@ -1,8 +1,8 @@
-[![DFF](https://telegra.ph/file/637194ad818c4c537deca.jpg)](https://t.me/DFF_UPDATE) [![DFF](https://telegra.ph/file/04576287705e1b0028737.jpg)](https://t.me/Hollywood_0980)
+[![DFF](https://telegra.ph/file/c371a506a85c33f6ec780.jpg)](https://t.me/DFF_UPDATE) [![DFF](https://telegra.ph/file/04576287705e1b0028737.jpg)](https://t.me/Hollywood_0980)
 
 # BetterAutoFilterBot
-this is auto filter Bot 
-
+This Is Just An Simple Advance Auto Filter Bot 
+ 
 __This Is Just An Simple Advance Auto Filter Bot 
 
 ## Usage
