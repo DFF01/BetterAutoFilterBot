@@ -61,35 +61,7 @@ You can deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
 
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="https://heroku.com/deploy?template=https://github.com/DFF01/BetterAutoFilterBot">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
-
-<details><summary>Deploy To VPS</summary>
-<p>
-<pre>
-git clone https://github.com/JNSBOT/Adv-Auto-Filter-Bot-V2/tree/blob/main
-cd Adv-Auto-Filter-Bot-ReMaster
-pip3 install -r requirements.txt
-# Change The Vars Of bot/__init__.py File Accordingly
-python3 -m bot
-</pre>
-</p>
-</details>
-
-
-<p align="center">
-↪️ Ⳗⲟⲓⲛ Ⲧꓖ ꓖⲅⲟⳙⲣ ↩️
-</p>
-
-<p align="center">
-<a href="https://t.me/Hollywood_0980"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
-</p>
+[![Maxx](https://telegra.ph/file/9f2c1601b7f791b4e22ad.jpg)](https://heroku.com/deploy?template=https://github.com/DFF01/BetterAutoFilterBot) 
 
 ----
 
